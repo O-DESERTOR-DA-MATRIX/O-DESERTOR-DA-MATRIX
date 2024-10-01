@@ -13,7 +13,3 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="70" height="70" style="border-radius:10px;box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
-
-### 🔧 Habilidades e Ferramentas
-- **Certificação:** CompTIA PenTest+
-- **Habilidades:** Testes de Penetração, Vulnerability Assessment, Active Directory, Python, Cloud Security (AWS)
